@@ -1,4 +1,4 @@
-# 🚀 Transformer, Made Easy
+# 🚀 Transformer, Learn Easy
 
 ### Understand Transformer Architecture — One Step at a Time
 
@@ -344,13 +344,13 @@ cd Transformers-Learn-Easy
 
 ### 3. Run the Application
 
-If the main HTML file is named `index.html`, simply open it in your browser.
+If the main HTML file is named `Transformer, Step by Step.html`, simply open it in your browser.
 
 Alternatively, use VS Code Live Server:
 
 1. Open the project folder in VS Code.
 2. Install the Live Server extension.
-3. Right-click `index.html`.
+3. Right-click `Transformer, Step by Step.html`.
 4. Select **Open with Live Server**.
 
 The application should now be running locally.
@@ -364,7 +364,7 @@ The current implementation is a self-contained HTML application.
 ```text
 Transformers-Learn-Easy/
 │
-├── index.html       # Application structure, styling,
+├── Transformer, Step by Step.html       # Application structure, styling,
 │                    # Transformer model and interactions
 │
 └── README.md        # Project documentation
@@ -457,14 +457,6 @@ git push origin feature/your-feature-name
 ```
 
 6. Open a Pull Request.
-
----
-
-## 📄 License
-
-A license has not yet been specified for this repository.
-
-If you intend to make this project open source, consider adding an appropriate license file, such as the MIT License.
 
 ---
 
